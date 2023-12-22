@@ -1,4 +1,4 @@
-#02456 DeepLearning team 19
+# 02456 DeepLearning team 19
 
 This is the repository for 02456 DeepLearning DTU E23 for team 19. 
 -------------------------------------------------------------------
